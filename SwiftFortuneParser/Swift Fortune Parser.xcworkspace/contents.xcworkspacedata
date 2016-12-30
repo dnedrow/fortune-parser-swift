@@ -10,5 +10,8 @@
    <Group
       location = "container:"
       name = "Common Code">
+      <FileRef
+         location = "group:Common/MyClass.swift">
+      </FileRef>
    </Group>
 </Workspace>
